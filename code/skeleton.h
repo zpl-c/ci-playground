@@ -24,7 +24,7 @@ License:
 
 #define SKEL_VERSION_MAJOR 15
 #define SKEL_VERSION_MINOR 0
-#define SKEL_VERSION_PATCH 0
+#define SKEL_VERSION_PATCH 1
 #define SKEL_VERSION_PRE ""
 
 #include "zpl_hedley.h"
